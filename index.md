@@ -5,4 +5,6 @@
 ##### Exemplo `<h5>`
 ###### Exemplo `<h6>`
 
-Aprendi a adicionar headers a arquivos.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Aprendi a adicionar headers e imagens a arquivos.
