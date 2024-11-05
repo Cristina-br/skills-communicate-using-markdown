@@ -7,6 +7,11 @@
 print("Olá, amigos!")
 ```
 
+- [ ] Testando
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-Aprendi a adicionar headers, imagens e códigos a arquivos.
+Aprendi a adicionar headers, imagens, códigos e listas de tarefas a arquivos.
